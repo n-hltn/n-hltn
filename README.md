@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Nikki!
 
-<!--
-**n-hltn/n-hltn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Aspiring IT professional | 🐍 Python beginner | 🌱 Always learning
 
-Here are some ideas to get you started:
+## 🚀 About Me:
+I'm just getting started on my tech journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tools I'm Using:
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Wing IDE](https://img.shields.io/badge/Wing%20IDE-0082C9?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+
+## 🗂️ What You'll Find Here:
+- 📁 My beginner (Python) projects
+- 🧪 Small experiments with code 
+
+
+## ⚡Fun fact about me:
+I have a passion for digital art.
+
